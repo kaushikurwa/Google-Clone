@@ -23,7 +23,7 @@ This project is a front-end **clone of the Google homepage**, built with **HTML*
 * **Navigation Bar** (`<nav class="navbar">`):
 
   * Links: About | Store | Gmail | Images
-  * Menu icon (hamburger)
+  * Menu icon 
   * User icon with placeholder initial (K)
 
 ### 2️⃣ Main Content
